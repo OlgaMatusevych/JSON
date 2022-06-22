@@ -1,0 +1,14 @@
+{
+"Bug_id" : 16,
+
+ "Title": "Widget doesn’t have white dash line on display",
+ "Severity": "major",
+ "Priority": "high",
+ "Environment": "Xiaomi  Mi 11 Lite Android 11 RKQ1.200826.002, MIUI Global 12.0.8 Stable",
+ "Precondition": "Phone desktop is empty",
+ "STR": "1) Open application",
+        "2) Click the add widget button",
+    	"3) Pay attention to the icons on the main screen",
+ "AR": "Widget doesn’t have  white dash line on display",
+ "ER": "Widget has   white dash line on display"
+}
